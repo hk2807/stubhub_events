@@ -24,4 +24,4 @@ Events are stored in separate JSON files, with **5 records per file**:
 
 ```bash
 git clone https://github.com/hk2807/stubhub_events.git
-cd stubhub-scraper
+cd stubhub_spider
